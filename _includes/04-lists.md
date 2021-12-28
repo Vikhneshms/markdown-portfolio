@@ -1,5 +1,5 @@
-Replace this with a list of your favorite things.
-heart❤️	: * heart:
+Replace this with a list of your favourite things.
+❤️	: * heart:
 
 👍	: * +1:
 
