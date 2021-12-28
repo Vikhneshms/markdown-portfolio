@@ -7,4 +7,4 @@ heart❤️	:heart:
 
 ✨	: * sparkles:
 
-🎉	: *tada:
+🎉	: * tada:
